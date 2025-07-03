@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">A DSA enthusiast and budding app developer from India.</h3>
 
